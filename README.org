@@ -1,0 +1,9 @@
+* rfc2388
+
+An implementation of RFC 2388 in Common Lisp.
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/jdz/rfc2388.git |
+| commit  | 591bcf7                                |
+| systems | rfc2388                                |
+|---------+----------------------------------------|
